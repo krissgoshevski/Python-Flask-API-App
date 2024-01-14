@@ -14,7 +14,7 @@
 # app.config['SECRET_KEY'] = secrets.token_hex(16)
 #
 # # Db configuration
-# app.config['SQLALCHEMY_DATABASE_URI'] = 'mysql://root:''@localhost/flaskreact'
+# app.config['SQLALCHEMY_DATABASE_URI'] = 'mysql://'
 # app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
 #
 # db = SQLAlchemy(app)
